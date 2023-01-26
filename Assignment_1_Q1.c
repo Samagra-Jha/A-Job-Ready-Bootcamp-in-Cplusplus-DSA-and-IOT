@@ -4,7 +4,7 @@
 #include<conio.h>
 int main()
 {
-    printf("Hello");
+    printf("Hello World");
     getch();
     return 0;
 }
